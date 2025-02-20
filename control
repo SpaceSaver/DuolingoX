@@ -1,0 +1,9 @@
+Package: com.spacesaver.duolingox
+Name: DuolingoX
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: u/spacesaver2000-1
+Author: u/spacesaver2000-1
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
