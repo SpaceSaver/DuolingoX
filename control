@@ -1,8 +1,8 @@
 Package: com.spacesaver.duolingox
 Name: DuolingoX
-Version: 0.0.1
+Version: 1.0.0
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Changes Duolingo's User-Agent enabling it to function on iOS 9!
 Maintainer: u/spacesaver2000-1
 Author: u/spacesaver2000-1
 Section: Tweaks
